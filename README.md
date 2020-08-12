@@ -1,7 +1,8 @@
+![160x110](https://user-images.githubusercontent.com/9035218/90017816-74b37a80-dc82-11ea-9f51-90e5005cec73.png)
 # Sistemas Distribuídos - Faculdade Santa Lúcia
 
 ## Professor Maromo
-<p style="text-align:center;">![sistemas_distribuidos](https://user-images.githubusercontent.com/9035218/90016555-8c89ff00-dc80-11ea-9706-1cdddafeeab6.png)</p>
+
 
 
 ### Objetivo do Repositório
